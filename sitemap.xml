@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- トップページ -->
+    <url>
+        <loc>https://katazukeya.jp/</loc>
+        <lastmod>2024-08-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- サービスページ (将来追加予定) -->
+    <url>
+        <loc>https://katazukeya.jp/service/</loc>
+        <lastmod>2024-08-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- 料金ページ (将来追加予定) -->
+    <url>
+        <loc>https://katazukeya.jp/price/</loc>
+        <lastmod>2024-08-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 対応エリアページ (将来追加予定) -->
+    <url>
+        <loc>https://katazukeya.jp/area/</loc>
+        <lastmod>2024-08-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 長野市エリア -->
+    <url>
+        <loc>https://katazukeya.jp/area/nagano-city/</loc>
+        <lastmod>2024-08-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- 松本市エリア -->
+    <url>
+        <loc>https://katazukeya.jp/area/matsumoto-city/</loc>
+        <lastmod>2024-08-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- 上田市エリア -->
+    <url>
+        <loc>https://katazukeya.jp/area/ueda-city/</loc>
+        <lastmod>2024-08-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- お問い合わせページ (将来追加予定) -->
+    <url>
+        <loc>https://katazukeya.jp/contact/</loc>
+        <lastmod>2024-08-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- よくある質問 (将来追加予定) -->
+    <url>
+        <loc>https://katazukeya.jp/faq/</loc>
+        <lastmod>2024-08-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- 会社概要 (将来追加予定) -->
+    <url>
+        <loc>https://katazukeya.jp/company/</loc>
+        <lastmod>2024-08-26</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.4</priority>
+    </url>
+
+    <!-- プライバシーポリシー (将来追加予定) -->
+    <url>
+        <loc>https://katazukeya.jp/privacy/</loc>
+        <lastmod>2024-08-26</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+</urlset>
